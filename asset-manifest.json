@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vkapp/static/css/main.981f7211.chunk.css",
-    "main.js": "/vkapp/static/js/main.214da33b.chunk.js",
-    "main.js.map": "/vkapp/static/js/main.214da33b.chunk.js.map",
+    "main.js": "/vkapp/static/js/main.57072282.chunk.js",
+    "main.js.map": "/vkapp/static/js/main.57072282.chunk.js.map",
     "runtime-main.js": "/vkapp/static/js/runtime-main.270aa3ca.js",
     "runtime-main.js.map": "/vkapp/static/js/runtime-main.270aa3ca.js.map",
     "static/css/2.86df01db.chunk.css": "/vkapp/static/css/2.86df01db.chunk.css",
     "static/js/2.85c0abf8.chunk.js": "/vkapp/static/js/2.85c0abf8.chunk.js",
     "static/js/2.85c0abf8.chunk.js.map": "/vkapp/static/js/2.85c0abf8.chunk.js.map",
     "index.html": "/vkapp/index.html",
-    "precache-manifest.c18aa01a49e04539469e0e574acc985d.js": "/vkapp/precache-manifest.c18aa01a49e04539469e0e574acc985d.js",
+    "precache-manifest.08571ebaec4e26f261a78a4d0823a5ec.js": "/vkapp/precache-manifest.08571ebaec4e26f261a78a4d0823a5ec.js",
     "service-worker.js": "/vkapp/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/vkapp/static/css/2.86df01db.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/vkapp/static/css/main.981f7211.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.85c0abf8.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.214da33b.chunk.js"
+    "static/js/main.57072282.chunk.js"
   ]
 }
