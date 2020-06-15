@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.981f7211.chunk.css",
-    "main.js": "./static/js/main.214da33b.chunk.js",
-    "main.js.map": "./static/js/main.214da33b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.cbad43c2.js",
-    "runtime-main.js.map": "./static/js/runtime-main.cbad43c2.js.map",
-    "static/css/2.86df01db.chunk.css": "./static/css/2.86df01db.chunk.css",
-    "static/js/2.111699d7.chunk.js": "./static/js/2.111699d7.chunk.js",
-    "static/js/2.111699d7.chunk.js.map": "./static/js/2.111699d7.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.82c5eb4c1b42163f3379b1ebaa5940d9.js": "./precache-manifest.82c5eb4c1b42163f3379b1ebaa5940d9.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.86df01db.chunk.css.map": "./static/css/2.86df01db.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "./static/css/main.981f7211.chunk.css.map",
-    "static/js/2.111699d7.chunk.js.LICENSE.txt": "./static/js/2.111699d7.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "./static/media/persik.4e1ec840.png"
+    "main.css": "/vkapp/static/css/main.981f7211.chunk.css",
+    "main.js": "/vkapp/static/js/main.214da33b.chunk.js",
+    "main.js.map": "/vkapp/static/js/main.214da33b.chunk.js.map",
+    "runtime-main.js": "/vkapp/static/js/runtime-main.270aa3ca.js",
+    "runtime-main.js.map": "/vkapp/static/js/runtime-main.270aa3ca.js.map",
+    "static/css/2.86df01db.chunk.css": "/vkapp/static/css/2.86df01db.chunk.css",
+    "static/js/2.85c0abf8.chunk.js": "/vkapp/static/js/2.85c0abf8.chunk.js",
+    "static/js/2.85c0abf8.chunk.js.map": "/vkapp/static/js/2.85c0abf8.chunk.js.map",
+    "index.html": "/vkapp/index.html",
+    "precache-manifest.c18aa01a49e04539469e0e574acc985d.js": "/vkapp/precache-manifest.c18aa01a49e04539469e0e574acc985d.js",
+    "service-worker.js": "/vkapp/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/vkapp/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vkapp/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.85c0abf8.chunk.js.LICENSE.txt": "/vkapp/static/js/2.85c0abf8.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/vkapp/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbad43c2.js",
+    "static/js/runtime-main.270aa3ca.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.111699d7.chunk.js",
+    "static/js/2.85c0abf8.chunk.js",
     "static/css/main.981f7211.chunk.css",
     "static/js/main.214da33b.chunk.js"
   ]
